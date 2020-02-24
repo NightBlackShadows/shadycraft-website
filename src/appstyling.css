@@ -1,0 +1,63 @@
+.Header {
+    margin: 20px;
+    width: auto;
+    border-style: solid;
+}
+
+.Header-img {
+    border-style: solid;
+    width: min-content;
+    height: 100%;
+}
+
+.Header_button {
+    margin-top: 10px;
+}
+
+.Header_logout {
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.Side {
+    float: right;
+    margin-right: 20px;
+    border-style: solid;
+}
+
+.Body {
+    float: left;
+    margin-left: 20px;
+    border-style: solid;
+}
+
+.Container {
+    border-style: solid;
+}
+
+.Login_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Model {
+    margin-left: 10px;
+}
+
+.Register_h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Search {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.User {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
